@@ -1,0 +1,7 @@
+{
+  "name": "dsafio-devops-nodejs",
+  "version": "1.0.0",
+  "description": "Desafio proposto na disciplina de Devops, referente ao CP2",
+  "main": "app.js",
+  "author": "rm99675"
+}
