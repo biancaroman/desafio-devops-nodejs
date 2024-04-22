@@ -6,7 +6,7 @@ Este repositório contém os passos necessários para implantar uma aplicação 
 
 - Docker instalado e configurado em sua máquina.
 
-- ## Passos
+## Passos
 
 ### 1. Clonar o repositório:
 
